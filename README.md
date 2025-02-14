@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himani-N
-- 👀 I’m interested in web developement,cyber security.
-- 🌱 I’m currently learning web developement,java tutorials,cybersecurity basics.
-- 💞️ I’m looking to collaborate on cybersecurity interns..
+- 👀 I’m interested in Web Developement,Cyber Security.
+- 🌱 I’m currently learning Web Developement,Java Tutorials,Cyber Security basics.
+- 💞️ I’m looking to collaborate on Cybersecurity interns..
 - 📫 How to reach me himanireddy875@gmail.com
 - 😄 Pronouns: Himani
 - ⚡ Fun fact: Topper may be talented,TALENTED NEED NOT TO BE A TOPPER.....
