@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web developement,java tutorials,cybersecurity basics.
 - 💞️ I’m looking to collaborate on cybersecurity interns..
 - 📫 How to reach me himanireddy875@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Himani
 - ⚡ Fun fact: Topper may be talented,TALENTED NEED NOT TO BE A TOPPER.....
 
 <!---
