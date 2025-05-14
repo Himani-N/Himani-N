@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himani-N
-- 👀 I’m interested in Web Developement,Cyber Security.
-- 🌱 I’m currently learning Web Developement,Java Tutorials,Cyber Security basics.
+- 👀 I’m interested in Python, DSA, Cyber Security.
+- 🌱 I’m currently learning Python Tutorials,Cyber Security basics.
 - 💞️ I’m looking to collaborate on Cybersecurity interns..
 - 📫 How to reach me himanireddy875@gmail.com
 - 😄 Pronouns: Himani
